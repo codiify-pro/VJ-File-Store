@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://graph.org/file/d57d6f83abb6b8d0efb02.jpg" alt="VJ-FILE-STORE-BOT Logo">
+  <img src="https://i.ibb.co/dJ0gpJf1/photo-2025-06-16-12-07-05-7516517596376596504.jpg" alt="VJ-FILE-STORE-BOT Logo">
 </p>
 <h1 align="center">
   VJ FILE STORE BOT
@@ -85,13 +85,13 @@
 
 <b><details><summary>Tap On Me For See Credit</summary>
 
-💝 Credit Goes To [Tech VJ](https://telegram.me/Kingvj01)
+💝 Credit Goes To [Tech VJ](https://telegram.me/VJ_Bots)
 
-🖍️ This Code Is Fully Written Or Coded And Public By [Tech VJ](https://telegram.me/Kingvj01) So Don't Forgot To Give Credit
+🖍️ This Code Is Fully Written Or Coded And Public By [Tech VJ](https://github.com/VJBots) So Don't Forgot To Give Credit
 
 💖 And Thank You So Much To All Who Help In This Journey 💕
 
-Copyright ©️ [Tech VJ](https://telegram.me/Kingvj01)
+Copyright ©️ [Tech VJ](https://youtube.com/@Tech_VJ)
 
 </b>
 </details>
@@ -101,7 +101,7 @@ Copyright ©️ [Tech VJ](https://telegram.me/Kingvj01)
 <b><details><summary>Tap On Me For See Details Of Owner</summary>
 
 - YouTube Channel : [Tech VJ](https://youtube.com/@Tech_VJ)
-- Telegram Channel : [VJ Botz](https://telegram.me/VJ_Botz)
+- Telegram Channel : [VJ Bots](https://telegram.me/VJ_Bots)
 - Contact Link : [King VJ](https://telegram.me/Kingvj01)
 - Instagram Id Link : [Tech VJ](https://instagram.com/tech.vj)
 
@@ -109,7 +109,7 @@ Copyright ©️ [Tech VJ](https://telegram.me/Kingvj01)
 </details>
 
 
-### Copyright ©️ [Tech VJ](https://telegram.me/Kingvj01)
+### Copyright ©️ [Tech VJ](https://youtube.com/@Tech_VJ)
 
 <b>Selling This Repo Or Code Of This Repo For Money Is Strictly Prohibited 🚫</b>
 
